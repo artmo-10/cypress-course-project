@@ -1,0 +1,17 @@
+{
+  "name": "course_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "report:open": "start cypress\\reports\\html\\index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.7.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
