@@ -1,0 +1,11 @@
+{
+    "firstname" : "Arturo",
+    "lastname" : "Morales",
+    "totalprice" : 200,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2025-12-18",
+        "checkout" : "2025-12-24"
+    },
+    "additionalneeds" : "Vegetarian Lunch"
+}
